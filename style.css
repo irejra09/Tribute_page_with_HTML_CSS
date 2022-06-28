@@ -1,0 +1,59 @@
+.header{
+    text-align: center;
+    justify-content: center;
+    padding:5px;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color:#a19a93;
+    margin:0px;
+
+}
+
+.section{
+    height: 450px;
+    margin:auto auto;
+    width:950px;
+    background-color:white;
+    border-radius: 15px;
+}
+.sp{
+    text-align: center;
+    width: 100%;
+    display:block;
+    justify-content: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+    font-size:20px;
+    padding:17px;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.img1{
+    width:45%;
+    margin:auto;
+    display:block;
+    padding:50px 50px 0px 50px;;
+}
+
+img{
+    height:300px;
+    width:400px;
+    margin:auto;
+    display:block;
+    border-radius:15px;
+}
+.container{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top:30px;
+    padding-left: 100px;
+}
+li{
+    padding:15px;
+}
+p{
+    font-weight:bold;
+}
